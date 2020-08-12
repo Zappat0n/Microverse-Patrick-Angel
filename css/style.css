@@ -5,3 +5,10 @@ max-height: 100%;
 margin-left: auto;
 margin-right: auto;
 }
+#title, #tribute-info, #tribute-link, #img-caption{
+  text-align: center;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
